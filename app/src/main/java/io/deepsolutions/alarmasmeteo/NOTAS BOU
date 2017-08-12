@@ -1,0 +1,36 @@
+https://opendata.aemet.es/opendata/api/valores/climatologicos/diarios/datos/fechaini/2017-08-05T12%3A00%3A00UTC/fechafin/2017-08-05T/?api_key=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkYXZpZC5wZXJlei5ib3VAZ21haWwuY29tIiwianRpIjoiNzVhZWMzYzctMzJlMy00ZmJlLWI3YTItM2I3NmQ1OTQzODgxIiwiZXhwIjoxNTA4Njg3NjI1LCJpc3MiOiJBRU1FVCIsImlhdCI6MTUwMDkxMTYyNSwidXNlcklkIjoiNzVhZWMzYzctMzJlMy00ZmJlLWI3YTItM2I3NmQ1OTQzODgxIiwicm9sZSI6IiJ9.GV7dwemvdjBgnGmDZhre_zzn5fEYjKuccnxSX16KB90
+
+
+
+SACADO DE alarma_detail.xml
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/alarma_detail"
+    style="?android:attr/textAppearanceLarge"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:textIsSelectable="true"
+    tools:context="io.deepsolutions.alarmasmeteo.AlarmaDetailFragment" />
+
+
+    /*estoy implementando esto:
+    http://www.hermosaprogramacion.com/2016/01/recyclerview-con-cursor-en-android/
+    Otros links
+    http://www.grokkingandroid.com/android-tutorial-writing-your-own-content-provider/
+    https://bitbucket.org/grokkingandroid/cpsample/src/c75f7d61f80cf41f009aca8ad346eddf6b3a13e7/src/com/grokkingandroid/sampleapp/samples/data/contentprovider/provider/LentItemsProvider.java?at=master&fileviewer=file-view-default
+    http://www.androiddesignpatterns.com/2012/07/understanding-loadermanager.html
+    https://developer.android.com/reference/android/app/ListFragment.html
+    https://developer.android.com/reference/android/support/v7/widget/RecyclerView.Adapter.html
+    https://academiaandroid.com/content-provider-y-ciclo-de-vida/
+    https://elbauldelprogramador.com/programacion-android-implementando-un_14/#usando-urimatcher-para-conocer-el-tipo-de-uri
+    */
+
+    esta mola, explica como pasar datos entre ativities
+    http://javiergarciaescobedo.es/desarrollo-android/97-proyectos-maestro-detalle/405-addressbookdroid-ejemplo-de-proyecto-master-detail-iv
+
+sigo buscando como devolver la alarma modificada a la activity main o guardarla directamente desde el detalle
+https://www.google.es/search?q=android+fragment+return+value+to+activity&oq=android+fragment+return+value+to+activity&gs_l=psy-ab.3..0i30k1.17062.17944.0.18405.6.6.0.0.0.0.353.607.2-1j1.2.0....0...1.1.64.psy-ab..4.2.606...0i7i30k1.JutG7zUkg6k
+
+CHULO!
+http://www.nglauber.com.br/2016/02/cursoradapter-para-recyclerview-parte-2.html

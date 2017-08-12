@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlarmasMeteo</string>
+    <string name="title_alarma_detail">Alarma Detail</string>
+</resources>

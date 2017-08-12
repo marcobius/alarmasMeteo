@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\.android\build-cache\ba81e9a6dbbdd1d11aaf6ff8ae3101f4bea49ab1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17c4e40af9ea704089fea266240a384e131d1054\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6fcfba4395bd8882b44fd683ecc420a952c70e2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\.android\build-cache\018dcb53cf2b10c0ef3bbcf0b924981f5b442742\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5154ed6613debcfced6d8be313d995e05375df28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\.android\build-cache\9c93f4cb383f7c2d535ef526ea41b29e75eaf341\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ea0800f9f0df587abb92d87bee3aff6319bfc9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\.android\build-cache\ae6a4e47a02cb3eadb1c1b2966d3900dce8ccdde\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_714ce355ef18a9d19f2d31316ced0ce779722e12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b8a1b728e7786fb0742133a84eafcb8980ed0412">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5aba2dbcf8c7a1301555b844abaf5aea76e037e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\.android\build-cache\adb35210c315063a210707bbb5bb4351da0c0926\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d1e0bc2dae83e45984f73b63ae8e70aac7eb5e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\.android\build-cache\7f3f66d52b0751094463a517d26f03298bf81ce2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9915c8efd1ea088a3ca63caf483ffe4f9197faf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\.android\build-cache\e7fd60148781dae36d9ab82036ffc1d5cdd7fd51\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_441cc43498bb2a5fd893daaeb53745542251bb34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\.android\build-cache\7059285d21912f5829ef67f2860ec47f5131dcaa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7bdf19e4b81f7dcb32eb0a3d35bb49e75a50a8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\.android\build-cache\a1e7175b8fa32de97af18c49f8c925f310677701\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12e8d6965d913a4e02980e5a155e06468579c0a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\.android\build-cache\01b67f1ba0e6d9c6c6205f392fc2fefcb9bc9cc7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39f5320113071b896cb6a0134653a547d70be381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\.android\build-cache\281429a850e8e1c65e3f2f09a704d4270d0a220b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35ef078e8d61acd0fdb471b213c510005120e673\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\.android\build-cache\2d2152aa1dccfc32b840303d90c1244226b28b2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0545d538a1c2edc68b6a15b0513319d99ee425d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marco\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\AlarmasMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_e666a3de2f0ada99d5e4e66fa9eb0336990c421c\classes.dex" />
+    </item>
+
+</items>
